@@ -95,7 +95,7 @@ ui_respawn={
 2d_physics/layer_3="PlayerHurtBox"
 2d_physics/layer_4="EnemyHurtBox"
 2d_physics/layer_5="Enemy"
-2d_physics/layer_6="SoftColissions"
+2d_physics/layer_6="ProjectileColissions"
 2d_physics/layer_7="Collectable"
 
 [rendering]
